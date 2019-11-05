@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: lightblue;
+  height: 100vh;
+}
+
+* {
+  font-family: 'McLaren', cursive;
+}
+
+h1 {
+  font-size: 3rem;
+  color: purple;
+}
+
+.container {
+  text-align: center;
+}
+
+button {
+  background-color: white;
+  border-radius: 100px;
+}
